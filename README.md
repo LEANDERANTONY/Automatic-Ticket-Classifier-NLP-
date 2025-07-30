@@ -62,3 +62,6 @@ Validation Accuracy: **~85%**
 ---
 
 ## 📦 Requirements
+
+pip install -r requirements.txt
+
